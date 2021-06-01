@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProjetMinecraft": {
+      "commandName": "Project",
+      "commandLineArgs": "anvil ./saves/"
+    }
+  }
+}
